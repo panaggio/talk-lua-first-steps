@@ -29,14 +29,14 @@
 
 # Tipos
 
-     nil
-     boolean
-     number
-     string
-     table
-     function
-     userdata
-     thread
+- nil
+- `boolean`
+- `number`
+- `string`
+- `table`
+- `function`
+- `userdata`
+- `thread`
 
 !SLIDE
 
