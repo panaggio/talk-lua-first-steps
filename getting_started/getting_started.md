@@ -1,3 +1,7 @@
+!SLIDE transition=scrollUp center
+
+# Primeiros passos
+
 !SLIDE
 
 # Hello World
