@@ -12,6 +12,7 @@
     { "section": "expressions" },
     { "section": "statements" },
     { "section": "functions" },
+    { "section": "stdlib" },
 
     { "section": "about_me" },
 
