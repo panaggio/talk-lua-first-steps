@@ -33,8 +33,10 @@
 
     function sum(...)
       local s = 0
+
       for i,v in ipairs(arg) do
         s = s + v
       end
+
       return s
     end
