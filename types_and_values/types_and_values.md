@@ -133,7 +133,7 @@
 # `table`
 
     x = { 7, 8, 9, field1 = 'value1', field2 = 'value2'}
-    print(x[1])         -->  7
+    print(x[1])         --> 7
     print(x['field1'])  --> value1
 
 !SLIDE
