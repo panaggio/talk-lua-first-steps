@@ -1,0 +1,14 @@
+{
+  "name": "Lua first steps",
+  "description": "Quick talk on Lua syntax and some interesting stuff, to be used before Lua coding dojos.",
+  "sections": [
+    { "section": "title" },
+
+    { "section": "about_me" },
+
+    { "section": "about_me" },
+
+    { "section": "end" },
+    { "section": "title" }
+  ]
+}
