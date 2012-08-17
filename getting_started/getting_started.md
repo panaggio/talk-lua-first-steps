@@ -94,7 +94,7 @@
 
 # `arg`
 
-    $ % lua examples/arg.lua a b c
+    $ lua examples/arg.lua a b c
 
     --[[
     arg[-1] = lua
